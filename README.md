@@ -1,4 +1,6 @@
-### Hi there 👋
+### Mohamed Mohamed
+
+This is my github profile. It is continuously evolving and I welcome you to my journey!
 
 <!--
 **mamohamed2/mamohamed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
