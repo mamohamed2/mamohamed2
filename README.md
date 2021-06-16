@@ -1,4 +1,4 @@
-### Mohamed Mohamed
+###
 
 This is my github profile. It is continuously evolving and I welcome you to my journey!
 
